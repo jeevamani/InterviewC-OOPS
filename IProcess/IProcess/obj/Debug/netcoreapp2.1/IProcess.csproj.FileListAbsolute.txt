@@ -1,0 +1,11 @@
+D:\Jeevamani\IProcess\IProcess\IProcess\obj\Debug\netcoreapp2.1\IProcess.csprojAssemblyReference.cache
+D:\Jeevamani\IProcess\IProcess\IProcess\obj\Debug\netcoreapp2.1\IProcess.csproj.CoreCompileInputs.cache
+D:\Jeevamani\IProcess\IProcess\IProcess\obj\Debug\netcoreapp2.1\IProcess.AssemblyInfoInputs.cache
+D:\Jeevamani\IProcess\IProcess\IProcess\obj\Debug\netcoreapp2.1\IProcess.AssemblyInfo.cs
+D:\Jeevamani\IProcess\IProcess\IProcess\bin\Debug\netcoreapp2.1\IProcess.deps.json
+D:\Jeevamani\IProcess\IProcess\IProcess\bin\Debug\netcoreapp2.1\IProcess.runtimeconfig.json
+D:\Jeevamani\IProcess\IProcess\IProcess\bin\Debug\netcoreapp2.1\IProcess.runtimeconfig.dev.json
+D:\Jeevamani\IProcess\IProcess\IProcess\bin\Debug\netcoreapp2.1\IProcess.dll
+D:\Jeevamani\IProcess\IProcess\IProcess\bin\Debug\netcoreapp2.1\IProcess.pdb
+D:\Jeevamani\IProcess\IProcess\IProcess\obj\Debug\netcoreapp2.1\IProcess.dll
+D:\Jeevamani\IProcess\IProcess\IProcess\obj\Debug\netcoreapp2.1\IProcess.pdb
