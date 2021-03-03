@@ -15,7 +15,7 @@ namespace IProcess.Class
          */
     public static class HeightConvertor
     {
-         static HeightConvertor()
+        static HeightConvertor()
         {
 
         }

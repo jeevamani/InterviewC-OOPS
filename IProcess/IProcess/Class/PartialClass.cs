@@ -15,20 +15,30 @@ namespace IProcess.Class
 
     public partial class partialclasssample
     {
-
-
-        public string psample()
+        public partialclasssample()
         {
-            return "partial return";
+
+        }
+
+        public void psample()
+        {
+            Console.WriteLine("partial return");
+            Console.ReadLine();
         }
     }
 
     public partial class partialclasssample : psample
     {
-
-        public string psample2()
+        public partialclasssample(int a)
         {
-            return "partial class implemted";
+
+        }
+
+        public void psample2()
+        {
+            Console.WriteLine("partial class implemted");
+            Console.ReadLine();
+           
         }
     }
 

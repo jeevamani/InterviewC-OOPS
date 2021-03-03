@@ -34,7 +34,18 @@ namespace IProcess.Class
             return "sample 2";
         }
     }
-    // * we cannot able to create object of the abstract class
+
+    public abstract class abstracclassSample3
+    {
+        //abstract method not able to create private access modifier
+        public abstract  void Runsample2();
+        public  void sample2()
+        {
+            Console.WriteLine("sample 2");
+            Console.ReadLine();
+        }
+    }
+    // * we can't able to create object of the abstract class
     // abstracclassSample obj = new abstracclassSample();
     // we can create contructor of the abstract class
     //
@@ -46,6 +57,21 @@ namespace IProcess.Class
 
         }
         public override void Runsample()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class Sample4 : abstracclassSample3
+    {
+        public void sample2()
+        {
+           
+            Console.WriteLine("sample 3");
+            Console.ReadLine();
+           
+        }
+        public override void Runsample2()
         {
             throw new NotImplementedException();
         }

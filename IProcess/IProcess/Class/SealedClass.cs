@@ -9,7 +9,7 @@ namespace IProcess.Class
         Sealed class implementation
 
     *A Sealed class is a class  that cannot be inherited and used to restrict the properties.
-    * Access modifiers are not applied to a sealed clas
+    * Access modifiers are not applied to a sealed class
     * To access the sealed members we must create an object of the class
     * sealed class can access the public and internal access specifier
     * we can create object of the sealed class
@@ -23,9 +23,10 @@ namespace IProcess.Class
         public sealedSample()
         {
         }
-        public string ssamplemethod()
+        public void ssamplemethod()
         {
-            return "test";
+            Console.WriteLine("sample 3");
+            Console.ReadLine();
         }
 
     }
